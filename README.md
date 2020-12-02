@@ -1,8 +1,10 @@
-## Welcome to Li Lab @ BIOPIC
+# **Welcome to Li Lab @ BIOPIC**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Whenever** _you commit_ to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Research Interest
+## Research Interest
+
+![Image](src="https://github.com/jaimehernan95/arrayReview-java/blob/master/images/%20arrayExample.png")
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -26,14 +28,14 @@ Syntax highlighted code block
 
 For [publications](https://scholar.google.com/citations?hl=en&user=xVy1jCUAAAAJ).
 
-### We are hiring!
+## We are hiring!
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/skyjasonli/lab/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### About BIOPIC
+## About BIOPIC
 
 Check out [BIOPIC](https://biopic.pku.edu.cn/english/index.htm)
 
-### Contact
+## Contact
 
 bb@cc.com.
