@@ -4,7 +4,7 @@
 
 ## Research Interest
 
-![Image](src=san-diegos-best-trails-top-hikes.jpg)
+![Image](san-diegos-best-trails-top-hikes.jpg)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
