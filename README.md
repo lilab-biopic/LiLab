@@ -1,6 +1,6 @@
 # **Welcome to Li Lab @ BIOPIC**
 
-[**Research**](discription)   [**Team**](discription)   [**Publications**](discription)   [**Outreach**](discription)   [**Contact**](discription)
+[**Research**](discription)---[**Team**](discription)---[**Publications**](discription)---[**Outreach**](discription)---[**Contact**](discription)
 
 ## Research Interest
 
