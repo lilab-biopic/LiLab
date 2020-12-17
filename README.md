@@ -58,5 +58,5 @@ _For [full publications](https://scholar.google.com/citations?hl=en&user=xVy1jCU
 
 ## Contact
 
-Email: gul030@health.ucsd.edu
+Email: [gul030@health.ucsd.edu](mailto:gul030@health.ucsd.edu)
 Twitter: [@sky_jasonli](https://twitter.com/sky_jasonli)
