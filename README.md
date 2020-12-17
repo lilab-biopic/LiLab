@@ -12,14 +12,15 @@ We commit to use single-cell multi-omics and functional genomics to examine the 
 
 ## About the PI
 
-Dr. Guoqiang Li received his B.S. in Biotechnology from Wuhan University in 2008, and Ph.D. in Genomics from Beijing Institute of Genomics, Chinese Academy of Sciences in 2014. He did his postdoctoral research at Ludwig Institute for Cancer Research, UC San Diego since 2015. He has been honored with multiple awards, including the Chinese Academy of Sciences President Award and Outstanding Graduate and Sanofi Pasteur and Beijing Institutes of Life Science Biomedical Prize in 2014. In 2021, he will join Peking University as a tenure-track Assistant Professor in Biomedical Pioneering Innovation Center (BIOPIC) and Beijing Advanced Innovation Center for Genomics (ICG).
+Dr. Guoqiang Li received his B.S. in Biotechnology from Wuhan University in 2008, and Ph.D. in Genomics from Beijing Institute of Genomics, Chinese Academy of Sciences in 2014. He did his postdoctoral research at Ludwig Institute for Cancer Research, UC San Diego since 2015. He has been honored with multiple awards, including the Chinese Academy of Sciences President Award and Outstanding Graduate and Sanofi Pasteur and Beijing Institutes of Life Science Biomedical Prize in 2014. 
 
 Dr. Li has been focusing on the mechanisms and technology development in the interaction of cancer and epigenomics, and achieved multiple accomplishments: demonstrated that E3 ligase adaptor SPOP promotes kidney tumorigenesis by acting as a critical regulatory hub, observed that abnormal DNA methylome often occurred in human embryos in assisted reproductive technology (ART) and then developed a patent to detect the DNA methylome instability before embryo implantation, developed a single-cell multi-omics technology that can jointly profile and delineate the heterogeneity of DNA Methylation and chromatin organization in single cells.
 
+In 2021, Dr. Li will join Peking University as a tenure-track Assistant Professor in Biomedical Pioneering Innovation Center (BIOPIC) and Beijing Advanced Innovation Center for Genomics (ICG).
+
 ## **We are hiring!**
 
-Postdocs in the field of genetics, genomics, and bioinformatics are welcome to join! Please send you CV and representive publications to gul030@health.ucsd.edu. Please also arrange 1-2 recommendations from PhD mentor and other's. 
-
+**Postdocs in the field of genetics, genomics, and bioinformatics are welcome to join! Please send you CV and representive publications to gul030@health.ucsd.edu. Please also arrange 1-2 recommendations from PhD mentor and other's.**
 
 ## Publications
 #### Leading/co-first author publications: (*Equal contribution)
@@ -46,16 +47,17 @@ _Wang Lu*, Jun Zhang*, Jialei Duan*, Xingxing Gao*, Wei Zhu, Xingyu Lu, Lu Yang,
 
 _Jiang Lan*, Jing Zhang*, Jing-Jing Wang*, Lu Wang, Li Zhang, Guoqiang Li, Xiaodan Yang, Xin Ma, Xin Sun, Jun Cai, Jun Zhang, Xingxu Huang, Miao Yu, Xuegeng Wang, Feng Liu, Chung- I. Wu, Chuan He, Bo Zhang, Weimin Ci and Jiang Liu. "Sperm, but Not Oocyte, DNA Methylome Is Inherited by Zebrafish Early Embryos." Cell 153, no. 4 (2013): 773-784._
 
-## PATENT
+## Patent
 _Jiang Liu, Jie Qiao, Guoqiang Li, Yang Yu, Yong Fan and Congru Li, “Noninvasive detection method for screening healthily-growing blastulas.” No. WO2017177900A1_
 
 _For [full publications](https://scholar.google.com/citations?hl=en&user=xVy1jCUAAAAJ)._
 
 ## About BIOPIC and Peking University
 
-Check out [BIOPIC](https://biopic.pku.edu.cn/english/index.htm)   [Peking University](http://english.pku.edu.cn/)
+[BIOPIC](https://biopic.pku.edu.cn/english/index.htm)   
+[Peking University](http://english.pku.edu.cn/)
 
 ## Contact
 
 Email: gul030@health.ucsd.edu
-Twitter: @sky_jasonli
+Twitter: [@sky_jasonli](https://twitter.com/sky_jasonli)
