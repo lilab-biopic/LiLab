@@ -19,7 +19,8 @@ In 2021, Dr. Li will join Peking University as a tenure-track Assistant Professo
 
 ## **We are hiring!**
 
-**Postdocs in the field of genetics, genomics, and bioinformatics are welcome to join! Please send you CV and representive publications to gul030@health.ucsd.edu . Please also arrange 1-2 recommendations from PhD mentor and other's.**
+**Postdocs in the field of genetics, genomics, and bioinformatics are welcome to join! Please send you CV and representive publications to gul030@health.ucsd.edu
+Please also arrange 1-2 recommendations from PhD mentor and other's.**
 
 ## Publications
 #### Leading/co-first author publications: (*Equal contribution)
