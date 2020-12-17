@@ -1,8 +1,7 @@
-# **Welcome to Li Lab @ BIOPIC**
+# **Welcome**
 
-**New lab will start in 2021! Stay tuned!**
+**The new lab will start in 2021 @BIOPIC! This page is for a brief introduction. More details will be updated. Please stay tuned!**
 
-[**Research**](discription)---[**Team**](Team)---[**Publications**](Publications)---[**Outreach**](discription)---[**Contact**](discription)
 
 ## Research Interest
 
